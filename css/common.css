@@ -1,0 +1,21 @@
+/* 版心 */
+.w {
+    margin: 0 auto;
+}
+
+/* 左浮动 */
+.fl {
+    float: left;
+}
+
+/* 右浮动 */
+.fr {
+    float: right;
+}
+
+/* 字体 */
+.style_white {
+    color: #fff;
+    font-size: 12px;
+
+}
